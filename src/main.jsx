@@ -13,3 +13,25 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </ChakraProvider>
   </React.StrictMode>
 );
+
+/*
+
+const favoriteFonts = [
+  "anka-coder",
+  "anonymous-pro",
+  "cm-unicode",
+  "daddytimemono",
+  "fairfax-hd",
+  "fantasque-sans",
+  "iosevka",
+  "luculent",
+  "sax",
+  "victor-mono",
+];
+
+const fontSetting = {
+  "editor.fontFamily":
+    "'Anka/Coder', 'AnonymicePro Nerd Font Mono', 'CMU Typewriter Text', 'DaddyTimeMono Nerd Font Mono', 'Fairfax HD', 'FantasqueSansM Nerd Font Mono', 'Iosevka NFM', 'Luculent', 'saxMono', 'VictorMono NFM'",
+};
+
+*/
